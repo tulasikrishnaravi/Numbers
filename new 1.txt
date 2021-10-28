@@ -1,0 +1,32 @@
+
+
+
+   {
+      "car": "benz"
+	  
+      "key1":[
+
+     "key 10": { key1 : tires,
+       key2 : bummer
+	   }
+	   
+	  key 5: {
+	   key 3: light,
+	   key 4: joint}
+	   ]
+   
+   
+   
+   }
+   
+   
+   key1.key10.key1
+   
+   jsonPath js=new 
+   baseuri
+   String response =given().log().all().queryParam("key","value").header("content-type","json")
+   .when().path("path").
+   then().log().all().assertstatus(200).extract
+   
+  
+   
